@@ -1,24 +1,24 @@
 # Vaja6-ADC-scan-mode-conversion-STM32F0
 <ul>
-  <h2>OPOZORILO!!! Program ne deluje pravilno!</h2>
+  <h3>OPOZORILO!!! Program ne deluje pravilno!</h3>
   <h3>Odgovori na vprašanja:</h3>
-    <h4>2.b: </h4>
-      <li>PC0</li>
-    <h4>2.e:</h4>
-      <li>ADC_IN10</li>
-    <h4>2.h:</h4>
-      <li>PC9</li>
+    <h4>2.d: </h4>
+      <li>PC0, PC1, PC2 v skupini C</li>
+    <h4>2.g:</h4>
+      <li>ADC1_IN1, ADC1_IN2, ADC1_IN3</li>
     <h4>2.i:</h4>
-      <li>APB1 peripheral clock se nastavi na polovico APB1 Timer clock, vsi ostali se pa nastavijo na isto frekvenco kot APB1 Timer clock.</li>
+      <li>Clock prescaler: deljeno s 4</li>
+    <h4>2.k:</h4>
+      <li>Znašala bo 1</li>
     <h4>2.l:</h4>
-      <li>16000</li>
-    <h4>3.f:</h4>
-        <li>HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_9);</li>
+      <li>Data Width: Byte pri obeh.</li>
+    <h4>3.d:</h4>
+        <li>Direct memory access - direkten dostop do spomina.</li>
 </ul>
 
 <ul>
   <h3>Komentar:</h3>
   <p>
-    Vrednost se, da preprosto spreminjati s potenciometrom. Med nalogo sma imela nekaj problemov ko sma pozabila vpisati eno vrstico kode. Ko je bilo to popravljeno je program deloval odlično.
+    Vrednos se bi morala spreminjati s tem da spreminjamo vrednost potenciometrov. A zaradi neznane napake v programu ne bere vrednosti potenciometrov in le izpisuje vrednost 0.
   </p>
 </ul>
