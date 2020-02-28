@@ -1,7 +1,7 @@
 # Vaja6-ADC-scan-mode-conversion-STM32F0
 <ul>
   <h3>OPOZORILO!!!</h3>
-    <h4> Program ne deluje pravilno!</4>
+    <li> Program ne deluje pravilno!</li>
   <h3>Odgovori na vprašanja:</h3>
     <h4>2.d: </h4>
       <li>PC0, PC1, PC2 v skupini C</li>
