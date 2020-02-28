@@ -1,6 +1,6 @@
 # Vaja6-ADC-scan-mode-conversion-STM32F0
 <ul>
-  <h4>OPOZORILO!!! Program ne deluje pravilno!</h4>
+  <h2>OPOZORILO!!! Program ne deluje pravilno!</h2>
   <h3>Odgovori na vprašanja:</h3>
     <h4>2.b: </h4>
       <li>PC0</li>
